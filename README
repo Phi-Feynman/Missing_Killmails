@@ -1,0 +1,4 @@
+A dump of missing killmail data from MER
+Note time entries correspong to number of killmails in PRECEEDING hour
+
+entry of (2020-01-01 01:00:00,500) equates to 500 killmails in the time period between 2020-01-01 00:00:00 and 2020-01-01 01:00:00
